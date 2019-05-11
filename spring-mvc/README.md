@@ -1,6 +1,7 @@
-Sample Spring MVC application
+<h1>Sample Spring MVC application<h1>
+You can clone the project and import it to your IDE and run "mvn clean package". Afterwards just deploy the artifact to the server.
 
-Spring java configuration steps
+Spring MVC java configuration steps
 
 1. Create a basic maven project New > Project . Depending on the version you assign, that will be applied to your artifact when you package the project. Keep the version simple (example 1.0) for convenience 
 org.alo.springmvc
