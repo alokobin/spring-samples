@@ -1,4 +1,4 @@
-<h1>Sample Spring MVC application<h1>
+<h1>Sample Spring MVC application</h1>
 You can clone the project and import it to your IDE and run "mvn clean package". Afterwards just deploy the artifact to the server.
 
 Spring MVC java configuration steps
